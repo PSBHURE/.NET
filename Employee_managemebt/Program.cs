@@ -11,8 +11,11 @@
             CEO c = new CEO("VIRU", 10, 200000, "Capjemini");
             Console.WriteLine(c);
             Console.WriteLine(e.CalNetSalary());
+            Console.WriteLine();
             Console.WriteLine(g.CalNetSalary());
+            Console.WriteLine();
             Console.WriteLine(c.CalNetSalary());
+            Console.WriteLine();
         }
     }
 }
