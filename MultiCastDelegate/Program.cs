@@ -7,9 +7,9 @@
         {
             Class1 c1= new Class1();
             Console.WriteLine(c1.PassFuncationAsParameter(c1.Add, 10, 5));
-           Console.WriteLine(c1.PassFuncationAsParameter(Class1.Sub,10,5));
-           // Console.WriteLine(c1.PassFuncationAsParameter(c1.Mul,10,5));
-           // Console.WriteLine(c1.PassFuncationAsParameter(c1.Div,10,2));
+            Console.WriteLine(c1.PassFuncationAsParameter(Class1.Sub,10,5));
+            Console.WriteLine(c1.PassFuncationAsParameter(c1.Mul,10,5));
+            Console.WriteLine(c1.PassFuncationAsParameter(c1.Div,10,2));
         }
     }
     public class Class1
@@ -18,12 +18,7 @@
         {
             return d(a, b);
         }
-        /*
-         static int CallFunctionPassedAsAParameter(DelAdd objDelAdd,int a, int b)  //objDelAdd = Add
-        { 
-            return objDelAdd(a,b);
-        }
-         */
+       
         public int Add(int a,int b)
         {
             return a+b;
