@@ -1,0 +1,14 @@
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.exe
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.deps.json
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.runtimeconfig.json
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.dll
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.pdb
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.AssemblyInfoInputs.cache
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.AssemblyInfo.cs
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.csproj.CoreCompileInputs.cache
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.dll
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\obj\Debug\net8.0\refint\MultiCastDelegate.dll
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.pdb
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.genruntimeconfig.cache
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\MultiCastDelegate\obj\Debug\net8.0\ref\MultiCastDelegate.dll
