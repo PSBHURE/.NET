@@ -1,0 +1,14 @@
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\bin\Debug\net8.0\Event_Handler.exe
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\bin\Debug\net8.0\Event_Handler.deps.json
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\bin\Debug\net8.0\Event_Handler.runtimeconfig.json
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\bin\Debug\net8.0\Event_Handler.dll
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\bin\Debug\net8.0\Event_Handler.pdb
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\obj\Debug\net8.0\Event_Handler.GeneratedMSBuildEditorConfig.editorconfig
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\obj\Debug\net8.0\Event_Handler.AssemblyInfoInputs.cache
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\obj\Debug\net8.0\Event_Handler.AssemblyInfo.cs
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\obj\Debug\net8.0\Event_Handler.csproj.CoreCompileInputs.cache
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\obj\Debug\net8.0\Event_Handler.dll
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\obj\Debug\net8.0\refint\Event_Handler.dll
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\obj\Debug\net8.0\Event_Handler.pdb
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\obj\Debug\net8.0\Event_Handler.genruntimeconfig.cache
+D:\PG-DAC\DOTNET REPOSITORY\DAY_5\Event_Handler\obj\Debug\net8.0\ref\Event_Handler.dll
